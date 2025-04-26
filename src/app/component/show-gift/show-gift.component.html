@@ -1,0 +1,77 @@
+<div class="center" >
+<p-tabMenu [model]="items" [activeItem]="activeItem" (activeItemChange)="onActiveItemChange($event)"></p-tabMenu>
+</div>
+
+<p-toolbar styleClass="mb-4">
+    <ng-template pTemplate="left">
+        <button pButton pRipple  class="custom-button" (click)="openNew()" style="background-color: black;">New</button>
+    </ng-template>
+</p-toolbar>
+
+<div class="gift-container">
+    <div class="gift-container">
+        <div class="gift-row" style="display:contents;">
+            <div class="gift" *ngFor="let product of products; let i = index">
+                
+            <div class="gift-details">
+                <img style="width: 100%;" src="{{'assets/image/' + product.imageUrl}}" class="gift-image">
+                <div class="gift-info">
+                    <h3 class="gift-name">{{product.name}}</h3>
+                    <p class="gift-donor">תורם: {{product.donorId}}</p>
+                    <p class="gift-price">מכיר: {{product.ticketPrice}}</p>
+                    <p class="gift-category">קטגוריה: {{product.category}}</p>
+                </div>
+                <div class="gift-actions">
+                    <button pButton pRipple icon="pi pi-pencil" class="p-button-rounded p-button-success mr-2" (click)="editProduct(product)" style="background-color: black;"> </button>
+                    <button pButton pRipple icon="pi pi-trash" class="p-button-rounded p-button-warning" (click)="deleteProduct(product.id)" style="background-color: red;"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<p-dialog [(visible)]="productDialog" [style]="{width: '450px'}" header="Product Details" [modal]="true" styleClass="p-fluid">
+    <ng-template pTemplate="content">
+        <div class="p-field p-col">
+            <label for="id">Id</label>
+            <p-inputNumber id="id" [(ngModel)]="product.id"></p-inputNumber>
+        </div>
+        <div class="p-field">
+            <label for="name">Name</label>
+            <input type="text" pInputText id="name" [(ngModel)]="product.name" required minlength="2" autofocus />
+            <small class="p-error" *ngIf="submitted && !product.name">Name is required and must be at least 2 characters long.</small>
+        </div>
+
+        <div class="p-field">
+            <label for="category">Category</label>
+            <p-dropdown [(ngModel)]="product.category" inputId="category" [options]="categories" placeholder="Select" required></p-dropdown>
+            <small class="p-error" *ngIf="submitted && !product.category">Category is required.</small>
+        </div>
+
+        <div class="p-field">
+            <label for="donorid">DONOR ID</label>
+            <input type="text" pInputText id="donorid" [(ngModel)]="product.donorId" required />
+            <small class="p-error" *ngIf="submitted && !product.donorId">DONOR ID is required.</small>
+        </div>
+        <div class="p-field p-col">
+            <label for="price">Ticket Price</label>
+            <p-inputNumber id="price" [(ngModel)]="product.ticketPrice" mode="currency" currency="USD" locale="en-US" required (onInput)="validateTicketPrice()"></p-inputNumber>
+            <small class="p-error" *ngIf="submitted && !product.ticketPrice">Ticket Price is required.</small>
+            <small class="p-error" *ngIf="submitted && !isPriceLessThan10">Ticket Price must be at least 10.</small>
+          </div>
+        <div class="p-field p-col">
+            <label for="imageUrl">image</label>
+            <input type="text"  pInputText id="imageUrl"[(ngModel)]="product.imageUrl"  required>
+            <small class="p-error" *ngIf="submitted && !product.imageUrl">image is required.</small>
+        </div>
+    </ng-template>
+
+    <ng-template pTemplate="footer">
+        <button pButton pRipple label="Cancel" icon="pi pi-times" class="p-button-text" (click)="hideDialog()"></button>
+        <button pButton pRipple label="Save" pButton label="Save" [disabled]="!product.category || !product.imageUrl ||!product.donorId ||!product.name " icon="pi pi-check" class="p-button-text" (click)="saveProduct()"></button>
+    </ng-template>
+</p-dialog>
+
+<p-confirmDialog [style]="{width: '450px'}"></p-confirmDialog>
+
+
+   

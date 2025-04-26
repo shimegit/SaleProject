@@ -1,0 +1,21 @@
+{
+	"data": [
+		{
+			
+			"name": "Ikea",
+			"donation":"camra",
+            "phone":"058320849"
+			
+		},
+		{
+            "name": "Hzorfim",
+			"donation":"camra",
+            "phone":"05898687"
+		},
+		{
+            "name": "Ikea",
+			"donation":"calculator",
+            "phone":"058320849"
+		}
+	]
+}

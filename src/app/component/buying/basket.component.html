@@ -1,0 +1,82 @@
+<p-toolbar styleClass="mb-4" style="background-color: lightgreen;">
+    <ng-template pTemplate="left">
+      <p-menubar>
+        <p-toolbarGroup>
+          <button pButton pRipple class="custom-button"  [disabled]="isRaffling" (click)="getWinnerReport()">Get Winners</button>
+          <button pButton pRipple class="custom-button" [disabled]="!isRaffling" icon="pi pi-cart-plus" (click)="showMyCart()">Show My Cart</button>
+          <button pButton pRipple class="custom-button" (click)="log()">Login</button>
+        </p-toolbarGroup>
+      </p-menubar>
+    </ng-template>
+  </p-toolbar>
+<span class="p-input-icon-left">
+    <i class="pi pi-search"></i>
+    <button type="button" pButton pRipple label="Search By Name" (click)="searchGiftByName(name)"
+        style="background-color: red;border-color: rgb(0, 0, 0)"></button>
+    <input [(ngModel)]="name" type="text" pInputText placeholder="Search">
+    <i class="pi pi-search"></i>
+    <button type="button" pButton pRipple label="Search By Category" (click)="searchGiftByCategory(category)"
+        style="background-color: red;border-color: rgb(0, 0, 0)"></button>
+    <input [(ngModel)]="category" type="text" pInputText placeholder="Search">
+</span>
+
+<div class="gift-container">
+    <div class="gift" *ngFor="let product of products">
+        <div class="gift-details">
+            <img style="width: 100%;" src="{{'assets/image/' + product.imageUrl}}" class="gift-image">
+            <div class="gift-info">
+                <h3 class="gift-name">{{product.name}}</h3>
+                <p class="gift-donor">תורם: {{product.donorId}}</p>
+                <p class="gift-price">מחיר: {{product.ticketPrice}}</p>
+                <p class="gift-category">קטגוריה: {{product.category}}</p>
+            </div>
+            <div class="gift-actions">
+                <button pButton pRipple icon="pi pi-cart-plus" class="p-button-rounded p-button-stretched" (click)="chothen(product.id)"
+                    style="background-color: black;">Add to Cart</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p-dialog header="My cart" [(visible)]="visible" [style]="{width: '40vw'}" [maximizable]="true">
+    <ul class="gift-list">
+        <li *ngFor="let cart of chosenGifts" class="gift-item">
+            <div class="gift-details">
+                <span class="gift-name">{{cart.gift.name}}</span>
+                <br><br>
+                <span class="gift-donor">Donor:{{cart.gift.donorId}}</span>
+                <br><br>
+                <span class="gift-price">Price: {{cart.gift.ticketPrice}}</span>
+                <br><br>
+                <span class="gift-count">Count: {{cart.quantity}}</span>
+                <br><br>
+                <button pButton pRipple icon="pi pi-minus" class="p-button-rounded"
+                    (click)="removeFromCart(cart.gift.id)" style="background-color: black"></button>
+                <button pButton pRipple icon="pi pi-trash" class="p-button-rounded p-button-success mr-2"
+                    (click)="deletFromMyCart(cart.gift.id)"></button>
+
+            </div>
+            <div class="gift-actions">
+                <img style="width: 100%;" src="{{'assets/image/' + cart.gift.imageUrl}}">
+            </div>
+        </li>
+    </ul>
+    <button (click)="pay()" pButton pRipple icon="pi-id-card" class="p-button-rounded p-button-success mr-2">to
+        pay💲</button>
+</p-dialog>
+
+<p-dialog *ngIf="winnerReport && winnerReport.length > 0" header="My winners" [(visible)]="visible"
+    [style]="{width: '50vw'}" [maximizable]="true">
+    <div class="p-grid p-fluid">
+        <div class="p-col-12">
+            <div class="winners-container">
+                <div class="winner" *ngFor="let entry of winnerReport">
+                    <div class="winner-details">
+                        <p class="winner-gift">{{entry.gift.name}}</p>
+                        <p class="winner-user">User: {{entry.user.userName}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</p-dialog>
