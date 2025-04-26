@@ -1,0 +1,46 @@
+<div class="center">
+  <p-tabMenu [model]="items" [activeItem]="activeItem" (activeItemChange)="onActiveItemChange($event)"></p-tabMenu>
+</div>
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="raffle">Raffle!!!!!!!!!</h1>
+    <button pButton pRipple class="custom-button" (click)="raffle()">Raffle</button>
+    <button pButton pRipple class="custom-button" (click)="getWinnerReport()">Winners!!!!!!!!!</button>
+    <button (click)="resetRaffle()" pButton label="Reset Raffle" style="background-color: orange; color: white;"></button>
+  </div>
+
+
+
+  <p-dialog *ngIf="winnerReport && winnerReport.length > 0" header="My winners" [(visible)]="visible"
+    [style]="{width: '50vw'}" [maximizable]="true">
+    <div class="p-grid p-fluid">
+      <div class="p-col-12">
+        <table class="winners-table p-datatable">
+          <thead>
+            <tr>
+              <th class="th">Gift</th>
+              <th class="th">User</th>
+            </tr>
+          </thead>
+          <tbody>
+            <ng-container *ngFor="let entry of winnerReport">
+              <tr *ngIf="entry && entry.gift && entry.user">
+                <td class="td">{{ entry.gift.name }}</td>
+                <td class="td">{{ entry.user.userName }}</td>
+              </tr>
+            </ng-container>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </p-dialog>
+</body>
+
+</html>

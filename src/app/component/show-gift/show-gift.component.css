@@ -1,0 +1,99 @@
+
+  .active-link {
+    font-weight: bold;
+  }
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    
+  }
+  .custom-tabmenu .p-tabmenuitem.p-highlight {
+    background-color: red !important;
+    color: white !important;
+    border-color: red !important;
+  }
+  .gift-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.gift {
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.gift-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-image {
+    height: 220px;
+    width: 180px;
+}
+
+.gift-info {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.gift-name {
+    font-size: 18px;
+}
+
+.gift-donor,
+.gift-price {
+    font-size: 14px;
+}
+
+.gift-actions {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.gift-list {
+    list-style: none;
+    padding: 0;
+}
+
+.gift-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.gift-row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.gift-actions {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.gift-image {
+    height: 350px;
+    width: 30px;
+}
+.gift-donor {
+    font-weight: bold;
+    color:black;
+  }
+  .gift-price{
+    font-weight: bold;
+    color:black;
+  }
+  .gift-category{
+    font-weight: bold;
+    color:black;
+  }
+  

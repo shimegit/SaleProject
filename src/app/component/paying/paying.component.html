@@ -1,0 +1,62 @@
+<div class="tips">
+  Payment card number: (4) VISA, (51 -> 55) MasterCard, (36-38-39) DinersClub, (34-37) American Express, (65) Discover,
+  (5019) dankort
+</div>
+<div class="order-total">The sum of your total order is {{sum}}</div>
+<div class="container">
+  <div class="col1">
+    <div class="card">
+      <div class="front">
+        <div class="type">
+          <img class="bankid" />
+        </div>
+        <span class="chip"></span>
+        <span class="card_number">●●●● ●●●● ●●●● ●●●● </span>
+        <div class="date"><span class="date_value">MM / YYYY</span></div>
+        <span class="fullname">FULL NAME</span>
+      </div>
+      <div class="back">
+        <div class="magnetic"></div>
+        <div class="bar"></div>
+        <span class="seccode">●●●</span>
+        <span class="chip"></span><span class="disclaimer">This card is property of Random Bank of Random corporation.
+          <br> If found please return to Random Bank of Random corporation - 21968 Paris, Verdi Street, 34 </span>
+      </div>
+    </div>
+  </div>
+  <div class="col2">
+    <form [formGroup]="paymentForm">
+      <label>Card number</label>
+      <input class="number" type="text" formControlName="ncard" required maxlength="19" pattern="[0-9]{19}" />
+      <div
+        *ngIf="paymentForm.get('ncard').invalid && (paymentForm.get('ncard').dirty || paymentForm.get('ncard').touched)">
+        <div *ngIf="paymentForm.get('ncard').errors.required">Please fill in the card number.</div>
+        <div *ngIf="paymentForm.get('ncard').errors.maxlength">The card number must be 19 digits long.</div>
+        <div *ngIf="paymentForm.get('ncard').errors.pattern">The card number must contain only numbers.</div>
+      </div>
+      <label>Cardholder name</label>
+      <input class="inputname" type="text" formControlName="cardHolderName" required />
+      <div
+        *ngIf="paymentForm.get('cardHolderName').invalid && (paymentForm.get('cardHolderName').dirty || paymentForm.get('cardHolderName').touched)">
+        <div *ngIf="paymentForm.get('cardHolderName').errors.required">Please fill in the name of the cardholder.</div>
+      </div>
+      <label>Expiration Date</label>
+      <input class="expire" type="date" formControlName="expirationDate" required />
+      <div
+        *ngIf="paymentForm.get('expirationDate').invalid && (paymentForm.get('expirationDate').dirty || paymentForm.get('expirationDate').touched)">
+        <div *ngIf="paymentForm.get('expirationDate').errors.required">Please fill in the expiration date.</div>
+      </div>
+      <label>Security number</label>
+      <input class="ccv" type="text" formControlName="securityNumber" required pattern="[0-9]+" maxlength="3" />
+      <div
+        *ngIf="paymentForm.get('securityNumber').invalid && (paymentForm.get('securityNumber').dirty || paymentForm.get('securityNumber').touched)">
+        <div *ngIf="paymentForm.get('securityNumber').errors.required">Please fill in the security number.</div>
+        <div *ngIf="paymentForm.get('securityNumber').errors.pattern">The security number must contain only numbers.
+        </div>
+      </div>
+      <button (click)="pay()" class="p-button p-button-danger"
+        [disabled]="paymentForm.invalid || paymentForm.pending">Confirm Paying for Your Cart</button>
+    </form>
+
+  </div>
+</div>

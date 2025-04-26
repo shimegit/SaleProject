@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body>
+  <h1>Registration Form</h1>
+
+  <div class="form-container">
+    <form id="registrationForm">
+      <h2>Registration</h2>
+      <div>
+        <label for="regUsername">UserName</label>
+        <input [(ngModel)]="user.UserName" name="UserName" required minlength="3" maxlength="20" #userName="ngModel">
+        <div *ngIf="userName.invalid && (userName.dirty || userName.touched)">
+          <div *ngIf="userName.errors.required">Username is required.</div>
+          <div *ngIf="userName.errors.minlength">Username should be at least 3 characters long.</div>
+          <div *ngIf="userName.errors.maxlength">Username should not exceed 20 characters.</div>
+        </div>
+      </div>
+      <div>
+        <label for="regPassword" type="password">Password</label>
+        <input [(ngModel)]="user.Password" name="Password" required minlength="6" maxlength="20" type="password"
+          #password="ngModel">
+        <div *ngIf="password.invalid && (password.dirty || password.touched)">
+          <div *ngIf="password.errors.required">Password is required.</div>
+          <div *ngIf="password.errors.minlength">Password should be at least 6 characters long.</div>
+          <div *ngIf="password.errors.maxlength">Password should not exceed 20 characters.</div>
+        </div>
+      </div>
+      <div>
+        <label for="regAddress">Address</label>
+        <input [(ngModel)]="user.address" name="address" required>
+      </div>
+      <div>
+        <label for="regEmail">Email</label>
+        <input [(ngModel)]="user.email" name="email" required pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}"
+          #email="ngModel">
+        <div *ngIf="email.invalid && (email.dirty || email.touched)">
+          <div *ngIf="email.errors.required">Email is required.</div>
+          <div *ngIf="email.errors.pattern">Invalid email format.</div>
+        </div>
+      </div>
+      <div>
+        <label for="regPhone">Phone</label>
+        <input [(ngModel)]="user.phone" name="phone" required pattern="[0-9]{10}" #phone="ngModel">
+        <div *ngIf="phone.invalid && (phone.dirty || phone.touched)">
+          <div *ngIf="phone.errors.required">Phone number is required.</div>
+          <div *ngIf="phone.errors.pattern">Invalid phone number format. (e.g., 1234567890)</div>
+        </div>
+      </div>
+      <button pButton pRipple label="Register" icon="pi pi-user" class="w-full" (click)="register()">Register</button>
+    </form>
+  </div>
+
+  <script data-two_delay_id="two_6584884432f0f" data-two_delay_src="script.js"></script>
+</body>
+
+</html>

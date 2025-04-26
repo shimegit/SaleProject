@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body class="img" img src='gift.jpg'>
+  <h1>Login Form</h1>
+  <h2> עדיין אינכם רשומים לאתר?</h2>
+  <div>
+    <button pButton pRipple label="הרשמה" icon="pi pi-user" style="width: 120px;" (click)="register()"></button>
+  </div>
+  <div class="form-container">
+    <form id="loginForm">
+      <h1>Login</h1>
+      <div>
+        <label for="loginUsername">Username</label>
+        <input [(ngModel)]="user.UserName" name="UserName" required minlength="3" maxlength="20" #userName="ngModel">
+        <div *ngIf="userName.invalid && (userName.dirty || userName.touched)">
+          <div *ngIf="userName.errors.required">Username is required.</div>
+          <div *ngIf="userName.errors.minlength">Username should be at least 3 characters long.</div>
+          <div *ngIf="userName.errors.maxlength">Username should not exceed 20 characters.</div>
+        </div>
+      </div>
+      <div>
+        <label for="loginPassword">Password</label>
+        <input [(ngModel)]="user.Password" name="Password" required minlength="6" maxlength="20" #password="ngModel">
+        <div *ngIf="password.invalid && (password.dirty || password.touched)">
+          <div *ngIf="password.errors.required">Password is required.</div>
+          <div *ngIf="password.errors.minlength">Password should be at least 6 characters long.</div>
+          <div *ngIf="password.errors.maxlength">Password should not exceed 20 characters.</div>
+        </div>
+
+      </div>
+      <button pButton pRipple label="כניסה" icon="pi pi-user" class="w-full"
+        [disabled]="!userName.valid || !password.valid" (click)="login() ">Login</button>
+    </form>
+
+
+  </div>
+
+  <script data-two_delay_id="two_6584884432f0f" data-two_delay_src="script.js"></script>
+</body>
+
+</html>

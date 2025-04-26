@@ -1,0 +1,164 @@
+
+.gift-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gift {
+  width: 400px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.gift-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gift-image {
+  height: 220px;
+  width: 6789%; 
+  
+}
+
+.gift-info {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.gift-name {
+  font-size: 18px;
+}
+
+.gift-donor,
+.gift-price {
+  font-size: 14px;
+}
+
+.gift-actions {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.gift-list {
+  list-style: none;
+  padding: 0;
+}
+
+.gift-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.gift-actions {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.gift-image {
+  height: 350px;
+  width: 30px;
+}
+
+.winners-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.winner {
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.winner-details {
+  text-align: center;
+}
+
+.winner-gift {
+  font-size: 18px;
+}
+
+.winner-user {
+  font-size: 14px;
+}
+.custom-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border: 2px solid black;
+}
+.gift-actions {
+  display: flex;
+  justify-content: center;
+}
+
+.p-button-stretched {
+  width: 100%;
+}
+.gift-donor {
+  font-weight: bold;
+  color:black;
+}
+.gift-price{
+  font-weight: bold;
+  color:black;
+}
+.gift-category{
+  font-weight: bold;
+  color:black;
+}
+.custom-button.get-winners,
+.custom-button.show-cart,
+.custom-button.login {
+  border: 2px solid red;
+}
+.navbar {
+  background-color: #0f7676;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  color: white;
+}
+
+.left-buttons {
+  display: flex;
+}
+
+.navbar-button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 16px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.search-button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.right-buttons {
+  display: flex;
+}

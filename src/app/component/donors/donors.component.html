@@ -1,0 +1,66 @@
+<div class="center">
+  <p-tabMenu class="custom-tabmenu" [model]="items" [activeItem]="activeItem"
+    (activeItemChange)="onActiveItemChange($event)"></p-tabMenu>
+</div>
+<p-toolbar styleClass="mb-4">
+  <ng-template pTemplate="left">
+    <button pButton pRipple label="New" icon="pi pi-plus" class="p-button-success mr-2" (click)="openNew()"
+      style="background-color: red;"></button>
+  </ng-template>
+</p-toolbar>
+
+<div class="grid-container">
+  <div *ngFor="let donor of donors" class="grid-item">
+    <h3>{{donor.name}}</h3>
+    <p>Id: {{donor.id}}</p>
+    <p>Phone: {{donor.phone}}</p>
+    <p>Email: {{donor.email}}</p>
+    <div class="button-group">
+      <button pButton pRipple icon="pi pi-pencil" class="p-button-rounded p-button-success mr-2"
+        (click)="editDonor(donor)" style="background-color: black;"></button>
+      <button pButton pRipple icon="pi pi-trash" class="p-button-rounded p-button-warning"
+        (click)="deleteDonor(donor.id)" style="background-color: red;"></button>
+    </div>
+  </div>
+</div>
+
+<p-dialog [(visible)]="productDialog" [style]="{width: '450px'}" header="Product Details" [modal]="true"
+  styleClass="p-fluid">
+  <ng-template pTemplate="content">
+    <div class="p-field">
+      <label for="Id">id</label>
+      <p-inputNumber id="id" [(ngModel)]="donor.id"></p-inputNumber>
+    </div>
+    <div class="p-field">
+      <label for="name">Name</label>
+      <input type="text" pInputText id="name" [(ngModel)]="donor.name" required minlength="2" autofocus />
+      <small class="p-error" *ngIf="submitted && (!donor.name || donor.name.length < 2)">Name is required and must be at
+        least 2 characters long.</small>
+    </div>
+
+    <div class="p-field">
+      <label for="phone">Phone</label>
+      <input type="tel" pInputText id="phone" [(ngModel)]="donor.phone" required maxlength="10" required
+        pattern="[0-9]{3}-?[0-9]{3}-?[0-9]{4}" autofocus />
+      <small class="p-error" *ngIf="submitted && !donor.phone">Phone is required and must be in the format
+        XXX-XXX-XXXX.</small>
+    </div>
+
+    <div class="p-field">
+      <label for="email">Email</label>
+      <input type="email" pInputText id="email" [(ngModel)]="donor.email" required autofocus required
+        pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}" />
+
+      <small class="p-error" *ngIf="submitted && !donor.email">Email is required and must be in a valid format.</small>
+
+    </div>
+  </ng-template>
+
+  <ng-template pTemplate="footer">
+    <button pButton pRipple label="Cancel" icon="pi pi-times" class="p-button-text" (click)="hideDialog()"></button>
+    <button pButton pRipple label="Save" [disabled]="!donor.name || !donor.phone ||!donor.email " icon="pi pi-check"
+      class="p-button-text" (click)="saveProduct()"></button>
+  </ng-template>
+</p-dialog>
+
+<p-confirmDialog [style]="{width: '450px'}"></p-confirmDialog>

@@ -1,0 +1,32 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    
+  }
+  .custom-tabmenu .p-tabmenuitem.p-highlight {
+    background-color: red !important;
+    color: white !important;
+    border-color: red !important;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 20px;
+    justify-items: center;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1200px;
+  }
+  
+  .grid-item {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .button-group {
+    margin-top: 10px;
+  }

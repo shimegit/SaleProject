@@ -1,0 +1,22 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "camra",
+			"donor": "The Computing Center",
+			"ticketPrice": 10
+		},
+		{
+			"id": 2,
+			"name": "clothet",
+			"donor": "Ikea",
+			"ticketPrice": 10
+		},
+		{
+			"id": 3,
+			"name": "computer",
+			"donor": " The Computing Center",
+			"ticketPrice": 10
+		}
+	]
+}
