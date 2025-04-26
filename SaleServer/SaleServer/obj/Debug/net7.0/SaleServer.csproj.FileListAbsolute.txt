@@ -1,0 +1,323 @@
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.AssemblyReference.cache
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.AssemblyInfoInputs.cache
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.AssemblyInfo.cs
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.CoreCompileInputs.cache
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.MvcApplicationPartsAssemblyInfo.cs
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.MvcApplicationPartsAssemblyInfo.cache
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\appsettings.Development.json
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\appsettings.json
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.exe
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.deps.json
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.runtimeconfig.json
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.pdb
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\AutoMapper.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Azure.Core.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Azure.Identity.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Humanizer.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.CodeDom.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Memory.Data.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.build.json
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.development.json
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.SaleServer.Microsoft.AspNetCore.StaticWebAssets.props
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.build.SaleServer.props
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SaleServer.props
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SaleServer.props
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.pack.json
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\scopedcss\bundle\SaleServer.styles.css
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.CopyComplete
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\refint\SaleServer.dll
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.pdb
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.genruntimeconfig.cache
+F:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\ref\SaleServer.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\appsettings.Development.json
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\appsettings.json
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.exe
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.deps.json
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.runtimeconfig.json
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.pdb
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\AutoMapper.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Azure.Core.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Azure.Identity.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Humanizer.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.CodeDom.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Memory.Data.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.AssemblyReference.cache
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.AssemblyInfoInputs.cache
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.AssemblyInfo.cs
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.CoreCompileInputs.cache
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.MvcApplicationPartsAssemblyInfo.cs
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.MvcApplicationPartsAssemblyInfo.cache
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.build.json
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.development.json
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.SaleServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.build.SaleServer.props
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SaleServer.props
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SaleServer.props
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.pack.json
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\scopedcss\bundle\SaleServer.styles.css
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.CopyComplete
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\refint\SaleServer.dll
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.pdb
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.genruntimeconfig.cache
+D:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\ref\SaleServer.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\appsettings.Development.json
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\appsettings.json
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.exe
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.deps.json
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.runtimeconfig.json
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.pdb
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\AutoMapper.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Azure.Core.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Azure.Identity.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Humanizer.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.CodeDom.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Memory.Data.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.AssemblyReference.cache
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.AssemblyInfoInputs.cache
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.AssemblyInfo.cs
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.CoreCompileInputs.cache
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.MvcApplicationPartsAssemblyInfo.cs
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.MvcApplicationPartsAssemblyInfo.cache
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.build.json
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.development.json
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.SaleServer.Microsoft.AspNetCore.StaticWebAssets.props
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.build.SaleServer.props
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SaleServer.props
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SaleServer.props
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.pack.json
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\scopedcss\bundle\SaleServer.styles.css
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.CopyComplete
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\refint\SaleServer.dll
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.pdb
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.genruntimeconfig.cache
+H:\פרוייקט שיפי מירי\יום שני\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\ref\SaleServer.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\appsettings.json
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.exe
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.deps.json
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.runtimeconfig.json
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\SaleServer.pdb
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Humanizer.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.AssemblyReference.cache
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.AssemblyInfo.cs
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.SaleServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.build.SaleServer.props
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SaleServer.props
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SaleServer.props
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\scopedcss\bundle\SaleServer.styles.css
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.csproj.CopyComplete
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\refint\SaleServer.dll
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.pdb
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.genruntimeconfig.cache
+C:\Users\This_User\Desktop\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\ref\SaleServer.dll
+D:\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.dll
+D:\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\refint\SaleServer.dll
+D:\הגשה\סרבר היום\SERVEREXP\SaleServer\SaleServer\obj\Debug\net7.0\SaleServer.pdb
